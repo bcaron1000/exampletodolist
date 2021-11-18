@@ -4,6 +4,6 @@ node_modules
 #parcel development files
 .parcel-cache
 dist
-
+.next
 # operating system files
 .DS_Store
